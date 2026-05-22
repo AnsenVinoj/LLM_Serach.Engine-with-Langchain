@@ -74,3 +74,6 @@ This will launch the application in your default web browser (typically at `http
 
 - **API Key Error**: Ensure your `.env` file is in the same directory as `Llm_app.py` and correctly named. The application checks for `GOOGLE_API_KEY`.
 - **Missing Dependencies**: Ensure you've activated your virtual environment before running `pip install -r requirements.txt`.
+<p align="center">
+  <img src="UI.png" alt="Gemini AI Workspace UI" width="800">
+</p>
