@@ -58,14 +58,15 @@ Before you begin, ensure you have met the following requirements:
 To start the application, run the following command from the project root:
 
 ```bash
-streamlit run Llm_app.py
+streamlit run l
+lm_app.py
 ```
 
 This will launch the application in your default web browser (typically at `http://localhost:8501`).
 
 ## Project Structure
 
-- `Llm_app.py`: The main Streamlit application script containing UI logic, LangChain setup, and custom CSS.
+- `llm_app.py`: The main Streamlit application script containing UI logic, LangChain setup, and custom CSS.
 - `requirements.txt`: List of required Python packages for the project.
 - `.env`: (You create this) Environment variables file for your API keys.
 - `myenv/`: Python virtual environment folder.
