@@ -58,8 +58,7 @@ Before you begin, ensure you have met the following requirements:
 To start the application, run the following command from the project root:
 
 ```bash
-streamlit run l
-lm_app.py
+streamlit run llm_app.py
 ```
 
 This will launch the application in your default web browser (typically at `http://localhost:8501`).
