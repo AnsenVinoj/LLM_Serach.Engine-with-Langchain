@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-google-genai
+langchain-core
+langsmith
+google-generativeai
+python-dotenv
+tiktoken
